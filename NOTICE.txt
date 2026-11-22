@@ -1,0 +1,16 @@
+BSR–RMT interface utilities
+
+The LS interface, which supported single-configuration targets, was described
+by Juan C. del Valle, Aaron T. Bondy, Soumyajit Saha, Kathryn R. Hamilton
+and Klaus Bartschat, Atoms 13, 75 (2025).
+https://doi.org/10.3390/atoms13090075
+
+Juan C. del Valle created the original interface utilities described in that
+paper. Aaron T. Bondy and Juan C. del Valle created the versions of
+bsr_Splinewaves.f90, bsr_H_jk.f90 and bsr_d_jk.f90 described in the current
+manuscript, “Multiconfigurational and Spin–Orbit Extensions of the BSR–RMT
+Interface.” bsr_Splinedata.f90 is unchanged from the original paper.
+
+The BSR programs and associated libraries were created by Oleg Zatsarinny and
+collaborators. See Computer Physics Communications 174, 273–356 (2006).
+https://doi.org/10.1016/j.cpc.2005.10.006
