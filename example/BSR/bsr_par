@@ -1,0 +1,15 @@
+# No substitution or correlation expansion is permitted in this gate.
+
+# bsr_conf3
+max_ll = 3
+
+# bsr_mat3
+mrel = 0
+mso = 1
+msoo = 0
+mss = 0
+moo = 0
+
+# bsr_hd3
+itype = 1
+jmvc = 0
